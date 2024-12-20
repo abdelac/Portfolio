@@ -42,7 +42,7 @@ const Hero = () => {
                       className="inline-block rounded-xl border border-indigo-600 bg-indigo-600 px-6 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-green-500 focus:outline-none focus:ring active:text-indigo-500"
                           href="/CV DEVELOPPER ENGN.pdf" target="_blank"
                         >
-                          Download CV "Fr"</motion.a>  
+                          Download CV "ENG"</motion.a>  
                     </div>
                   
                  
