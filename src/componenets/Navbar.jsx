@@ -15,11 +15,11 @@ const Navbar = () => {
     
       <nav className=" mb-20  flex items-center justify-between py-6 ">
           <div className=" flex flex-shrink-0 items-center ">
-          <h1 className='text-4xl font-extrabold 	 text-gray-500 cursor-pointer'> A .M</h1>
+          <h1 className='text-4xl font-extrabold 	 text-gray-500 cursor-pointer'> A .E</h1>
           </div>
           <div className='m-8 flex items-center justify-center gap-8 text-4xl'>
-              <a href='https://www.linkedin.com/in/abdelfettah-mostakir/' target="_blank"><FaLinkedin/></a>
-              <a href="https://github.com/Xliight" ><FaGit/></a>
+              <a href='https://www.linkedin.com/in/abdelghani-echchkaf/' target="_blank"><FaLinkedin/></a>
+              <a href="https://github.com/abdelac" ><FaGit/></a>
  
           </div>
 
