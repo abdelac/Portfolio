@@ -2,6 +2,10 @@ import React from 'react'
 import { SiAngularjs } from 'react-icons/si'
 import { motion } from "framer-motion"
 
+import { RiReactjsLine } from 'react-icons/ri'
+import { SiSpring, SiRedis, SiDocker, SiJavascript, SiMysql, SiAngular, SiGithubactions, SiLaravel, SiSymfony } from 'react-icons/si';
+import { SiPostgresql } from 'react-icons/si';
+
 const iconvariants = (duration) => ({
   initial: { y: -1 },
   animate: {
