@@ -7,6 +7,7 @@ import Experience from './componenets/Experience'
 import Projects from './componenets/Projects'
 import Contact from './componenets/Contact'
 import Service from './componenets/Service'
+import Service from './componenets/Certificates'
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <div className="container mx-auto px-8">
         <Navbar/>
         <Hero/>
+        <Certificates/>
         <Technologies/>
         <Experience />
         <Projects/>
